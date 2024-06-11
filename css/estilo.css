@@ -1233,6 +1233,7 @@ footer p{
 }
  .entrevistas{
     background-image: url("../imagenes/fondos/fondooscuro1.png");
+    background-size: cover;
  }
 .entrevistas .card{
     height: 20vh;
